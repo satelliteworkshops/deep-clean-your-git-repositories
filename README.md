@@ -1,7 +1,7 @@
 
 # Deep clean your Git repositories
 
-Welcome! :wave: This is the source repository for the [Deep clean your Git repositories](https://githubsatellite.com/workshops/#deep-clean-your-git-repositories) Satellite Workshop. Please complete the prerequisites below before the workshop if you would like to follow along with the exercises.
+Welcome! :wave: This is the source repository for the [Deep clean your Git repositories](https://githubsatellite.com/workshops/#deep-clean-your-git-repositories) Satellite Workshop. Please complete the prerequisites below before the workshop if you would like to follow along the exercises.
 
 #### Prerequisites
 
